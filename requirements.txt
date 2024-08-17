@@ -1,0 +1,3 @@
+aiogramm==2.9
+aiohttp
+aiosqlite
